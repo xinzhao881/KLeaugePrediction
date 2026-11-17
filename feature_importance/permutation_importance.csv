@@ -1,0 +1,199 @@
+﻿feature,importance,std
+home_roll5_xg_diff,0.00805,0.00195
+home_season_att_opp_fm_big_chance,0.00553,0.00149
+home_roll5_att_opp_fm_expected_goals_set_play,0.00503,0.00131
+away_season_str_opp_fm_shots_woodwork,0.00481,0.00222
+home_season_att_opp_fm_team_rating,0.00474,0.00207
+home_roll5_att_fm_expected_goals_open_play,0.00468,0.00231
+away_roll5_def_opp_fm_clearances,0.00441,0.00121
+home_season_att_opp_fm_big_chance_missed_title,0.00397,0.0021
+away_season_att_opp_fm_shotsontarget,0.00378,0.00208
+home_season_str_opp_fm_shots_woodwork,0.00351,0.00143
+away_season_goals_against,0.00316,0.00132
+home_roll5_def_opp_fm_accurate_crosses,0.0031,0.00158
+home_season_points,0.00298,0.00144
+home_season_xg_diff,0.00291,0.0008
+away_roll5_str_opp_fm_shots_woodwork,0.00283,0.00163
+away_season_def_opp_fm_shots_inside_box,0.00281,0.00132
+away_roll5_att_opp_fm_shotsontarget,0.00258,0.00144
+home_roll5_att_opp_fm_big_chance_missed_title,0.00252,0.00097
+home_roll5_att_opp_fm_big_chance,0.00246,0.00068
+away_roll5_def_opp_fm_long_balls_accurate_pct,0.00232,0.00126
+home_season_att_opp_fm_yellow_cards,0.00224,0.00187
+away_roll5_def_fm_red_cards,0.00204,0.00166
+away_season_att_opp_fm_team_rating,0.00191,0.00088
+home_season_goals_for,0.0019,0.00116
+home_roll5_def_fm_dribbles_succeeded_pct,0.00179,0.00106
+home_season_att_opp_fm_shotsontarget,0.00176,0.00129
+home_season_goals_against,0.00172,0.00063
+away_roll5_def_kl_크로스_시도,0.00172,0.00097
+home_roll5_att_opp_fm_expected_goals_non_penalty,0.0017,0.00048
+home_roll5_att_kl_공격진영 패스_성공%,0.0017,0.00073
+away_season_points,0.00155,0.00073
+home_season_att_fm_expected_goals_open_play,0.00152,0.00057
+home_roll5_points,0.00142,0.00058
+away_season_str_opp_kl_차단,0.0013,0.00069
+away_season_att_opp_fm_expected_goals_non_penalty,0.00124,0.00062
+home_roll5_str_fm_clearances,0.00122,0.0018
+home_season_def_kl_롱패스_시도,0.0012,0.00089
+home_roll5_str_opp_fm_shots_woodwork,0.00119,0.00065
+away_roll5_xg_diff,0.00117,0.00095
+home_roll5_att_fm_long_balls_accurate_pct,0.00116,0.00081
+away_roll5_goals_against,0.00114,0.00082
+away_season_def_opp_fm_long_balls_accurate_pct,0.00113,0.0007
+away_season_def_fm_dribbles_succeeded_pct,0.00106,0.0012
+home_season_att_opp_fm_expected_goals_non_penalty,0.00104,0.00036
+home_roll5_goals_for,0.00102,0.00067
+away_season_xg_diff,0.00099,0.00077
+away_roll5_att_opp_kl_프리킥 크로스_성공,0.00096,0.00126
+home_season_str_fm_clearances,0.00093,0.00076
+home_roll5_str_kl_공격진영 패스_성공,0.00089,0.00152
+away_season_att_opp_fm_big_chance,0.00087,0.00071
+away_season_att_opp_fm_yellow_cards,0.00083,0.00219
+away_season_def_opp_fm_accurate_crosses,0.00078,0.00065
+away_roll5_att_opp_fm_big_chance,0.00074,0.00089
+home_roll5_def_opp_fm_corners,0.0007,0.00128
+home_season_def_opp_fm_shots_inside_box,0.00061,0.00024
+away_roll5_def_opp_fm_shots_inside_box,0.0006,0.00049
+home_roll5_def_opp_fm_shots_inside_box,0.00059,0.00028
+home_roll5_def_kl_롱패스_시도,0.00058,0.0005
+away_roll5_att_fm_expected_goals_open_play,0.00057,0.00108
+home_roll5_def_kl_크로스_시도,0.00054,0.0005
+home_season_att_opp_fm_expected_goals_on_target,0.00053,0.0003
+away_roll5_att_opp_fm_expected_goals_on_target,0.00048,0.00223
+home_season_def_opp_kl_롱패스_성공,0.00047,0.00038
+home_season_att_kl_롱패스_성공,0.00046,0.00033
+home_roll5_att_fm_duel_won,0.00045,0.00096
+home_season_def_fm_dribbles_succeeded_pct,0.00044,0.0004
+away_season_def_opp_fm_corners,0.00041,0.00082
+home_season_def_opp_fm_opposition_half_passes,0.0004,0.00034
+away_roll5_str_kl_후방패스_성공%,0.00038,0.00023
+away_season_def_opp_fm_clearances,0.00036,0.00022
+away_roll5_str_opp_kl_차단,0.00036,0.00021
+home_roll5_att_opp_fm_duel_won,0.00036,0.00026
+home_roll5_str_kl_수비진영 패스_성공%,0.00035,0.0004
+away_season_att_fm_long_balls_accurate,0.00035,0.00042
+away_roll5_def_opp_fm_accurate_crosses,0.00033,0.00036
+away_roll5_att_fm_long_balls_accurate_pct,0.00031,0.00068
+home_roll5_att_fm_long_balls_accurate,0.00029,0.00016
+away_roll5_att_opp_fm_expected_goals_non_penalty,0.00026,0.00023
+home_roll5_att_kl_단거리패스_성공%,0.00026,0.00025
+home_roll5_def_opp_kl_롱패스_성공,0.00025,0.00022
+home_season_def_opp_kl_수비진영 패스_성공%,0.00024,0.00035
+away_season_def_opp_fm_opposition_half_passes,0.00024,0.00046
+away_season_att_fm_expected_goals_open_play,0.00024,0.00012
+home_roll5_def_opp_kl_중거리패스_성공,0.00022,0.00024
+home_roll5_att_opp_kl_프리킥 크로스_성공,0.00022,0.00088
+home_season_str_opp_kl_차단,0.0002,0.00022
+away_roll5_att_kl_수비진영 패스_성공,0.00018,0.00019
+away_roll5_def_opp_kl_롱패스_성공%,0.00017,0.00031
+home_roll5_def_opp_fm_opposition_half_passes,0.00016,0.00014
+away_roll5_att_fm_duel_won,0.00016,0.00024
+home_season_att_fm_long_balls_accurate,0.00015,0.00014
+home_roll5_def_opp_kl_수비진영 패스_성공%,0.00015,0.00044
+away_roll5_def_opp_fm_opposition_half_passes,0.00014,0.00015
+away_roll5_str_kl_수비진영 패스_성공%,0.00014,0.00027
+home_season_att_fm_duel_won,0.00013,0.00014
+home_roll5_def_fm_red_cards,0.00013,0.00025
+away_season_att_opp_fm_expected_goals_on_target,0.00013,0.00161
+home_season_def_opp_kl_중앙진영 패스_성공%,0.00012,0.0001
+home_season_att_fm_long_balls_accurate_pct,0.00012,0.00042
+home_season_def_opp_fm_corners,0.00012,0.00013
+away_season_att_kl_수비진영 패스_성공,0.0001,5e-05
+home_season_att_opp_kl_프리킥 크로스_성공,0.0001,9e-05
+away_roll5_def_opp_kl_크로스_시도,9e-05,0.00041
+away_roll5_def_opp_kl_횡패스_시도,8e-05,5e-05
+away_season_att_kl_횡패스_성공,7e-05,0.00047
+away_roll5_att_kl_단거리패스_성공%,6e-05,6e-05
+home_roll5_def_opp_kl_횡패스_시도,5e-05,7e-05
+home_season_att_kl_단거리패스_성공%,5e-05,7e-05
+away_roll5_str_kl_공격진영 패스_성공,4e-05,0.00074
+home_season_att_kl_공격진영 패스_성공%,4e-05,0.0001
+home_season_att_kl_횡패스_성공,4e-05,2e-05
+away_roll5_att_kl_횡패스_성공,4e-05,6e-05
+home_season_def_opp_kl_롱패스_성공%,3e-05,0.00019
+home_roll5_def_opp_kl_롱패스_성공%,3e-05,7e-05
+away_roll5_att_opp_fm_big_chance_missed_title,3e-05,0.0004
+away_roll5_str_kl_단거리패스_시도,1e-05,9e-05
+home_season_att_opp_fm_expected_goals_set_play,1e-05,0.0
+away_season_def_opp_kl_롱패스_성공,1e-05,3e-05
+away_roll5_str_fm_clearances,1e-05,2e-05
+away_season_str_fm_clearances,1e-05,0.00063
+away_season_att_opp_fm_big_chance_missed_title,0.0,0.0
+home_season_def_opp_kl_전방패스_성공,-0.0,0.0
+away_roll5_points,-0.0,2e-05
+home_roll5_str_opp_kl_키패스,-0.0,0.0016
+home_season_def_opp_kl_중거리패스_성공,-1e-05,5e-05
+home_roll5_def_opp_kl_전방패스_성공,-2e-05,0.00017
+away_roll5_att_fm_long_balls_accurate,-3e-05,7e-05
+home_roll5_att_kl_롱패스_성공,-3e-05,0.0002
+away_season_str_opp_kl_키패스,-3e-05,0.00024
+home_season_def_opp_kl_횡패스_시도,-3e-05,8e-05
+away_season_att_opp_fm_duel_won,-4e-05,0.00031
+away_season_att_kl_롱패스_성공,-4e-05,2e-05
+home_roll5_def_opp_fm_clearances,-5e-05,2e-05
+home_roll5_str_kl_후방패스_성공%,-7e-05,0.00035
+home_roll5_def_opp_kl_크로스_시도,-8e-05,0.00081
+away_roll5_def_opp_kl_롱패스_성공,-8e-05,7e-05
+home_roll5_def_opp_kl_중앙진영 패스_성공%,-8e-05,4e-05
+away_roll5_def_opp_kl_중앙진영 패스_성공%,-0.00013,0.00028
+away_roll5_att_kl_롱패스_성공,-0.00013,0.00011
+away_season_att_fm_long_balls_accurate_pct,-0.00014,0.00012
+home_season_str_kl_수비진영 패스_성공%,-0.00014,9e-05
+home_roll5_att_kl_수비진영 패스_성공,-0.00016,0.00041
+away_roll5_att_opp_fm_team_rating,-0.00017,0.00019
+away_roll5_def_opp_kl_중거리패스_성공,-0.00017,0.00022
+away_season_def_opp_kl_횡패스_시도,-0.00018,6e-05
+away_season_str_kl_수비진영 패스_성공%,-0.00019,0.00036
+away_roll5_att_opp_fm_duel_won,-0.00019,0.00018
+home_season_str_kl_후방패스_성공%,-0.0002,0.00034
+home_season_str_kl_공격진영 패스_성공,-0.00022,0.00042
+home_season_str_kl_단거리패스_시도,-0.00023,0.00014
+home_season_def_kl_크로스_시도,-0.00025,0.00035
+home_season_def_fm_red_cards,-0.00032,0.00071
+home_roll5_att_kl_횡패스_성공,-0.00032,0.00043
+home_season_att_kl_수비진영 패스_성공,-0.00033,0.00018
+away_season_def_opp_kl_롱패스_성공%,-0.00033,0.00035
+away_roll5_def_kl_롱패스_시도,-0.00034,0.00051
+away_season_att_opp_kl_프리킥 크로스_성공,-0.00034,0.00041
+home_season_def_opp_kl_크로스_시도,-0.00035,0.00038
+away_season_def_opp_kl_중거리패스_성공,-0.0004,0.00013
+away_roll5_def_opp_fm_corners,-0.00043,0.00038
+away_season_att_kl_단거리패스_성공%,-0.00053,0.00029
+away_roll5_att_opp_fm_expected_goals_set_play,-0.00053,0.00066
+home_season_def_opp_fm_accurate_crosses,-0.00053,0.00027
+away_season_str_kl_단거리패스_시도,-0.00054,0.0004
+home_season_str_opp_kl_키패스,-0.00055,0.00101
+away_roll5_att_kl_공격진영 패스_성공%,-0.00055,0.00036
+home_season_att_opp_fm_duel_won,-0.00056,0.00047
+home_roll5_goals_against,-0.00058,0.00024
+away_roll5_str_opp_kl_키패스,-0.0006,0.00048
+home_roll5_str_kl_단거리패스_시도,-0.00061,0.00069
+home_roll5_str_opp_kl_차단,-0.00063,0.00035
+away_season_def_kl_크로스_시도,-0.00065,0.00062
+away_season_def_opp_kl_중앙진영 패스_성공%,-0.00072,0.00028
+away_season_str_kl_공격진영 패스_성공,-0.00072,0.00038
+away_roll5_goals_for,-0.00072,0.00062
+away_roll5_att_opp_fm_yellow_cards,-0.00075,0.00183
+away_season_att_opp_fm_expected_goals_set_play,-0.00076,0.00095
+away_season_str_kl_후방패스_성공%,-0.00077,0.00047
+away_season_def_kl_롱패스_시도,-0.00084,0.00039
+away_season_def_opp_kl_수비진영 패스_성공%,-0.00085,0.00036
+home_roll5_att_opp_fm_team_rating,-0.00086,0.00026
+away_season_def_opp_kl_크로스_시도,-0.00099,0.0009
+away_season_matches_played,-0.001,0.00059
+home_roll5_def_opp_fm_long_balls_accurate_pct,-0.00102,0.00125
+away_roll5_def_opp_kl_전방패스_성공,-0.00103,0.00063
+away_roll5_def_opp_kl_수비진영 패스_성공%,-0.00109,0.00117
+home_season_matches_played,-0.0011,0.00055
+away_season_att_kl_공격진영 패스_성공%,-0.00134,0.00065
+home_season_def_opp_fm_long_balls_accurate_pct,-0.0014,0.00121
+away_season_def_opp_kl_전방패스_성공,-0.00146,0.00049
+home_roll5_att_opp_fm_shotsontarget,-0.00151,0.00092
+away_season_goals_for,-0.00159,0.00067
+home_roll5_att_opp_fm_yellow_cards,-0.00169,0.00136
+away_roll5_def_fm_dribbles_succeeded_pct,-0.00177,0.00124
+away_season_def_fm_red_cards,-0.00226,0.00146
+away_season_att_fm_duel_won,-0.0024,0.00165
+home_season_def_opp_fm_clearances,-0.00301,0.00103
+home_roll5_att_opp_fm_expected_goals_on_target,-0.00391,0.00219

@@ -1,0 +1,6 @@
+﻿setup,accuracy,pred_draw_share,recall_H,recall_D,recall_A,features,n_features,alpha,threshold,cv_accuracy,mae_home_goals,mae_away_goals,mae_goal_diff,r2_goal_diff,corr_goal_diff
+baseline_always_home,0.368,0.0,1.0,0.0,0.0,,,,,,,,,,
+ridge/core/tuned,0.4303,0.0,0.8468,0.0,0.3738,core,46.0,2511.8864,0.0,0.4138,0.873,0.8309,1.0918,0.0669,0.3263
+ridge/core/paper_0.5,0.3442,0.9614,0.0887,0.9906,0.0,core,46.0,2511.8864,0.5,,0.873,0.8309,1.0918,0.0669,0.3263
+ridge/all/tuned,0.4362,0.1395,0.7742,0.1698,0.3084,all,198.0,3981.0717,0.04,0.4215,0.8797,0.8418,1.0972,0.0461,0.2623
+ridge/all/paper_0.5,0.3175,0.9911,0.0161,0.9906,0.0,all,198.0,3981.0717,0.5,,0.8797,0.8418,1.0972,0.0461,0.2623

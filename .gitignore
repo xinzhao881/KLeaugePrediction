@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# FotMob raw JSON cache (~180MB, rebuilt by fotmob.py)
+fotmob_csv/raw/
+
+# Generated outputs (rebuilt by pruning.py / feature.py)
+kleague_csv/processed/
+models/
+predictions/
+
+# Reference papers (third-party)
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -141,7 +141,7 @@ def get_team_stats(year):
 #     #합계,평균 행 제거하고 opponent_team 컬럼 추가해서 csv돌아가면서 수정
  
 def main():
-    years = ["2023", "2024", "2025"]
+    years = ["2022", "2023", "2024", "2025"]
     for year in years:
         get_team_stats(year)
 if __name__ == "__main__":

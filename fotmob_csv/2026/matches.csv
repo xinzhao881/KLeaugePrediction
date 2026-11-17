@@ -1,0 +1,229 @@
+﻿season,round,match_id,utc_time,kst_date,kst_time,home_team,home_team_id,away_team,away_team_id,home_goals,away_goals,result,finished,started,cancelled,awarded,status_short,page_url
+2026,1,5139862,2026-02-28T05:00:00Z,2026-02-28,14:00,Incheon United,133895,FC Seoul,92630,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139862
+2026,1,5139863,2026-02-28T05:00:00Z,2026-02-28,14:00,Ulsan HD FC,133896,Gangwon FC,164734,3,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139863
+2026,1,5139864,2026-02-28T07:30:00Z,2026-02-28,16:30,Gimcheon Sangmu,133901,Pohang Steelers,109373,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139864
+2026,1,5139865,2026-03-01T05:00:00Z,2026-03-01,14:00,Jeonbuk Hyundai Motors FC,46038,Bucheon FC 1995,429441,2,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139865
+2026,1,5139866,2026-03-01T07:30:00Z,2026-03-01,16:30,Jeju SK,133898,Gwangju FC,245905,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139866
+2026,1,5139867,2026-03-02T05:00:00Z,2026-03-02,14:00,Daejeon Hana Citizen,133900,FC Anyang,429440,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139867
+2026,2,5139870,2026-03-07T07:30:00Z,2026-03-07,16:30,Bucheon FC 1995,429441,Daejeon Hana Citizen,133900,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139870
+2026,2,5139871,2026-03-07T07:30:00Z,2026-03-07,16:30,Gwangju FC,245905,Incheon United,133895,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5139871
+2026,2,5139872,2026-03-08T05:00:00Z,2026-03-08,14:00,Gimcheon Sangmu,133901,Jeonbuk Hyundai Motors FC,46038,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139872
+2026,2,5139873,2026-03-08T07:30:00Z,2026-03-08,16:30,FC Anyang,429440,Jeju SK,133898,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139873
+2026,2,5139868,2026-03-28T06:00:00Z,2026-03-28,15:00,Pohang Steelers,109373,Gangwon FC,164734,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139868
+2026,2,5139869,2026-04-15T10:30:00Z,2026-04-15,19:30,Ulsan HD FC,133896,FC Seoul,92630,1,4,A,True,True,False,False,FT,https://www.fotmob.com/match/5139869
+2026,3,5139874,2026-03-14T05:00:00Z,2026-03-14,14:00,Gwangju FC,245905,Jeonbuk Hyundai Motors FC,46038,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139874
+2026,3,5139875,2026-03-14T07:30:00Z,2026-03-14,16:30,Daejeon Hana Citizen,133900,Gimcheon Sangmu,133901,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139875
+2026,3,5139876,2026-03-15T05:00:00Z,2026-03-15,14:00,Bucheon FC 1995,429441,Ulsan HD FC,133896,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139876
+2026,3,5139877,2026-03-15T05:00:00Z,2026-03-15,14:00,Jeju SK,133898,FC Seoul,92630,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139877
+2026,3,5139878,2026-03-15T07:30:00Z,2026-03-15,16:30,Gangwon FC,164734,FC Anyang,429440,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139878
+2026,3,5139879,2026-03-15T07:30:00Z,2026-03-15,16:30,Pohang Steelers,109373,Incheon United,133895,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139879
+2026,4,5139880,2026-03-17T10:30:00Z,2026-03-17,19:30,Gimcheon Sangmu,133901,Gwangju FC,245905,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139880
+2026,4,5139881,2026-03-18T10:30:00Z,2026-03-18,19:30,Bucheon FC 1995,429441,Gangwon FC,164734,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139881
+2026,4,5139882,2026-03-18T10:30:00Z,2026-03-18,19:30,Incheon United,133895,Daejeon Hana Citizen,133900,1,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139882
+2026,4,5139883,2026-03-18T10:30:00Z,2026-03-18,19:30,Jeju SK,133898,Ulsan HD FC,133896,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139883
+2026,4,5139884,2026-03-18T10:30:00Z,2026-03-18,19:30,Jeonbuk Hyundai Motors FC,46038,FC Anyang,429440,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139884
+2026,4,5139885,2026-03-18T10:30:00Z,2026-03-18,19:30,Pohang Steelers,109373,FC Seoul,92630,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139885
+2026,5,5139886,2026-03-21T05:00:00Z,2026-03-21,14:00,Daejeon Hana Citizen,133900,Jeonbuk Hyundai Motors FC,46038,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139886
+2026,5,5139887,2026-03-22T05:00:00Z,2026-03-22,14:00,FC Seoul,92630,Gwangju FC,245905,5,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139887
+2026,5,5139888,2026-03-22T05:00:00Z,2026-03-22,14:00,Ulsan HD FC,133896,Gimcheon Sangmu,133901,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139888
+2026,5,5139889,2026-03-22T07:30:00Z,2026-03-22,16:30,FC Anyang,429440,Incheon United,133895,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139889
+2026,5,5139890,2026-03-22T07:30:00Z,2026-03-22,16:30,Gangwon FC,164734,Jeju SK,133898,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139890
+2026,5,5139891,2026-03-22T07:30:00Z,2026-03-22,16:30,Pohang Steelers,109373,Bucheon FC 1995,429441,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139891
+2026,6,5139892,2026-04-04T05:00:00Z,2026-04-04,14:00,Jeju SK,133898,Bucheon FC 1995,429441,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139892
+2026,6,5139893,2026-04-04T05:00:00Z,2026-04-04,14:00,Jeonbuk Hyundai Motors FC,46038,Ulsan HD FC,133896,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139893
+2026,6,5139894,2026-04-04T07:30:00Z,2026-04-04,16:30,Gangwon FC,164734,Gwangju FC,245905,3,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139894
+2026,6,5139895,2026-04-04T07:30:00Z,2026-04-04,16:30,Pohang Steelers,109373,Daejeon Hana Citizen,133900,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139895
+2026,6,5139896,2026-04-05T05:00:00Z,2026-04-05,14:00,FC Anyang,429440,FC Seoul,92630,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139896
+2026,6,5139897,2026-04-05T07:30:00Z,2026-04-05,16:30,Incheon United,133895,Gimcheon Sangmu,133901,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139897
+2026,7,5139898,2026-04-11T05:00:00Z,2026-04-11,14:00,Pohang Steelers,109373,Jeju SK,133898,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139898
+2026,7,5139899,2026-04-11T05:00:00Z,2026-04-11,14:00,FC Seoul,92630,Jeonbuk Hyundai Motors FC,46038,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139899
+2026,7,5139900,2026-04-11T07:30:00Z,2026-04-11,16:30,Gwangju FC,245905,Bucheon FC 1995,429441,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139900
+2026,7,5139901,2026-04-11T07:30:00Z,2026-04-11,16:30,Incheon United,133895,Ulsan HD FC,133896,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139901
+2026,7,5139902,2026-04-12T05:00:00Z,2026-04-12,14:00,Daejeon Hana Citizen,133900,Gangwon FC,164734,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139902
+2026,7,5139903,2026-04-12T07:30:00Z,2026-04-12,16:30,Gimcheon Sangmu,133901,FC Anyang,429440,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139903
+2026,8,5139904,2026-04-18T05:00:00Z,2026-04-18,14:00,Gangwon FC,164734,Jeonbuk Hyundai Motors FC,46038,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139904
+2026,8,5139905,2026-04-18T05:00:00Z,2026-04-18,14:00,FC Seoul,92630,Daejeon Hana Citizen,133900,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139905
+2026,8,5139906,2026-04-18T07:30:00Z,2026-04-18,16:30,Bucheon FC 1995,429441,Incheon United,133895,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5139906
+2026,8,5139907,2026-04-18T07:30:00Z,2026-04-18,16:30,Jeju SK,133898,Gimcheon Sangmu,133901,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139907
+2026,8,5139908,2026-04-19T05:00:00Z,2026-04-19,14:00,Ulsan HD FC,133896,Gwangju FC,245905,5,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139908
+2026,8,5139909,2026-04-19T07:30:00Z,2026-04-19,16:30,Pohang Steelers,109373,FC Anyang,429440,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139909
+2026,9,5139910,2026-04-21T10:30:00Z,2026-04-21,19:30,Gimcheon Sangmu,133901,Gangwon FC,164734,0,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139910
+2026,9,5139911,2026-04-21T10:30:00Z,2026-04-21,19:30,Jeonbuk Hyundai Motors FC,46038,Incheon United,133895,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139911
+2026,9,5139912,2026-04-21T10:30:00Z,2026-04-21,19:30,FC Seoul,92630,Bucheon FC 1995,429441,3,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139912
+2026,9,5139913,2026-04-22T10:30:00Z,2026-04-22,19:30,FC Anyang,429440,Ulsan HD FC,133896,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139913
+2026,9,5139914,2026-04-22T10:30:00Z,2026-04-22,19:30,Daejeon Hana Citizen,133900,Jeju SK,133898,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139914
+2026,9,5139915,2026-04-22T10:30:00Z,2026-04-22,19:30,Pohang Steelers,109373,Gwangju FC,245905,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139915
+2026,10,5139916,2026-04-25T05:00:00Z,2026-04-25,14:00,Gangwon FC,164734,FC Seoul,92630,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139916
+2026,10,5139917,2026-04-25T07:30:00Z,2026-04-25,16:30,Bucheon FC 1995,429441,Gimcheon Sangmu,133901,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139917
+2026,10,5139918,2026-04-25T07:30:00Z,2026-04-25,16:30,Incheon United,133895,Jeju SK,133898,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139918
+2026,10,5139919,2026-04-26T05:00:00Z,2026-04-26,14:00,Jeonbuk Hyundai Motors FC,46038,Pohang Steelers,109373,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5139919
+2026,10,5139920,2026-04-26T07:30:00Z,2026-04-26,16:30,Gwangju FC,245905,FC Anyang,429440,2,5,A,True,True,False,False,FT,https://www.fotmob.com/match/5139920
+2026,10,5139921,2026-04-26T07:30:00Z,2026-04-26,16:30,Ulsan HD FC,133896,Daejeon Hana Citizen,133900,1,4,A,True,True,False,False,FT,https://www.fotmob.com/match/5139921
+2026,11,5139922,2026-05-02T05:00:00Z,2026-05-02,14:00,FC Seoul,92630,Gimcheon Sangmu,133901,2,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139922
+2026,11,5139923,2026-05-02T05:00:00Z,2026-05-02,14:00,Ulsan HD FC,133896,Pohang Steelers,109373,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139923
+2026,11,5139924,2026-05-02T07:30:00Z,2026-05-02,16:30,Incheon United,133895,Gangwon FC,164734,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139924
+2026,11,5139925,2026-05-02T07:30:00Z,2026-05-02,16:30,Jeju SK,133898,Jeonbuk Hyundai Motors FC,46038,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139925
+2026,11,5139926,2026-05-02T10:00:00Z,2026-05-02,19:00,FC Anyang,429440,Bucheon FC 1995,429441,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139926
+2026,11,5139927,2026-05-02T10:00:00Z,2026-05-02,19:00,Gwangju FC,245905,Daejeon Hana Citizen,133900,0,5,A,True,True,False,False,FT,https://www.fotmob.com/match/5139927
+2026,12,5139928,2026-05-05T05:00:00Z,2026-05-05,14:00,Bucheon FC 1995,429441,Jeju SK,133898,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139928
+2026,12,5139929,2026-05-05T05:00:00Z,2026-05-05,14:00,Jeonbuk Hyundai Motors FC,46038,Gwangju FC,245905,4,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139929
+2026,12,5139930,2026-05-05T07:30:00Z,2026-05-05,16:30,Daejeon Hana Citizen,133900,Incheon United,133895,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139930
+2026,12,5139931,2026-05-05T07:30:00Z,2026-05-05,16:30,Gangwon FC,164734,Pohang Steelers,109373,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139931
+2026,12,5139932,2026-05-05T07:30:00Z,2026-05-05,16:30,Gimcheon Sangmu,133901,Ulsan HD FC,133896,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139932
+2026,12,5139933,2026-05-05T10:00:00Z,2026-05-05,19:00,FC Seoul,92630,FC Anyang,429440,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139933
+2026,13,5139934,2026-05-09T05:00:00Z,2026-05-09,14:00,Jeju SK,133898,FC Seoul,92630,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139934
+2026,13,5139935,2026-05-09T07:30:00Z,2026-05-09,16:30,Gimcheon Sangmu,133901,Incheon United,133895,0,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139935
+2026,13,5139936,2026-05-09T07:30:00Z,2026-05-09,16:30,Gwangju FC,245905,Gangwon FC,164734,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139936
+2026,13,5139937,2026-05-09T10:00:00Z,2026-05-09,19:00,Daejeon Hana Citizen,133900,Pohang Steelers,109373,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139937
+2026,13,5139938,2026-05-10T05:00:00Z,2026-05-10,14:00,Ulsan HD FC,133896,Bucheon FC 1995,429441,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139938
+2026,13,5139939,2026-05-10T07:30:00Z,2026-05-10,16:30,FC Anyang,429440,Jeonbuk Hyundai Motors FC,46038,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139939
+2026,14,5139940,2026-05-12T10:30:00Z,2026-05-12,19:30,Gangwon FC,164734,Daejeon Hana Citizen,133900,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139940
+2026,14,5139941,2026-05-12T10:30:00Z,2026-05-12,19:30,Gwangju FC,245905,FC Seoul,92630,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139941
+2026,14,5139942,2026-05-12T10:30:00Z,2026-05-12,19:30,Incheon United,133895,Pohang Steelers,109373,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139942
+2026,14,5139943,2026-05-13T10:30:00Z,2026-05-13,19:30,FC Anyang,429440,Gimcheon Sangmu,133901,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5139943
+2026,14,5139944,2026-05-13T10:30:00Z,2026-05-13,19:30,Bucheon FC 1995,429441,Jeonbuk Hyundai Motors FC,46038,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139944
+2026,14,5139945,2026-05-13T10:30:00Z,2026-05-13,19:30,Ulsan HD FC,133896,Jeju SK,133898,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139945
+2026,15,5139946,2026-05-16T07:30:00Z,2026-05-16,16:30,Daejeon Hana Citizen,133900,FC Seoul,92630,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139946
+2026,15,5139947,2026-05-16T10:00:00Z,2026-05-16,19:00,Incheon United,133895,Gwangju FC,245905,4,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139947
+2026,15,5139948,2026-05-17T07:30:00Z,2026-05-17,16:30,Jeju SK,133898,FC Anyang,429440,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139948
+2026,15,5139949,2026-05-17T07:40:00Z,2026-05-17,16:40,Jeonbuk Hyundai Motors FC,46038,Gimcheon Sangmu,133901,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139949
+2026,15,5139950,2026-05-17T10:00:00Z,2026-05-17,19:00,Bucheon FC 1995,429441,Pohang Steelers,109373,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139950
+2026,15,5139951,2026-05-17T10:00:00Z,2026-05-17,19:00,Gangwon FC,164734,Ulsan HD FC,133896,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139951
+2026,16,5139952,2026-07-04T10:30:00Z,2026-07-04,19:30,FC Anyang,429440,Pohang Steelers,109373,2,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139952
+2026,16,5139953,2026-07-04T10:30:00Z,2026-07-04,19:30,Daejeon Hana Citizen,133900,Bucheon FC 1995,429441,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5139953
+2026,16,5139954,2026-07-04T10:30:00Z,2026-07-04,19:30,Jeonbuk Hyundai Motors FC,46038,Gangwon FC,164734,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139954
+2026,16,5139955,2026-07-05T10:30:00Z,2026-07-05,19:30,Gimcheon Sangmu,133901,Jeju SK,133898,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139955
+2026,16,5139956,2026-07-05T10:30:00Z,2026-07-05,19:30,Gwangju FC,245905,Ulsan HD FC,133896,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139956
+2026,16,5139957,2026-07-05T10:30:00Z,2026-07-05,19:30,FC Seoul,92630,Incheon United,133895,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139957
+2026,17,5139958,2026-07-11T10:30:00Z,2026-07-11,19:30,Gimcheon Sangmu,133901,Bucheon FC 1995,429441,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139958
+2026,17,5139959,2026-07-11T10:30:00Z,2026-07-11,19:30,Gwangju FC,245905,Pohang Steelers,109373,0,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139959
+2026,17,5139960,2026-07-11T10:30:00Z,2026-07-11,19:30,Ulsan HD FC,133896,Jeonbuk Hyundai Motors FC,46038,1,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139960
+2026,17,5139961,2026-07-12T10:30:00Z,2026-07-12,19:30,Incheon United,133895,FC Anyang,429440,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139961
+2026,17,5139962,2026-07-12T10:30:00Z,2026-07-12,19:30,Jeju SK,133898,Daejeon Hana Citizen,133900,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139962
+2026,17,5139963,2026-07-12T10:30:00Z,2026-07-12,19:30,FC Seoul,92630,Gangwon FC,164734,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139963
+2026,18,5139964,2026-07-18T10:30:00Z,2026-07-18,19:30,Daejeon Hana Citizen,133900,Ulsan HD FC,133896,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5139964
+2026,18,5139965,2026-07-18T10:30:00Z,2026-07-18,19:30,Gangwon FC,164734,Gimcheon Sangmu,133901,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139965
+2026,18,5139966,2026-07-18T10:30:00Z,2026-07-18,19:30,Incheon United,133895,Jeonbuk Hyundai Motors FC,46038,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139966
+2026,18,5139967,2026-07-18T10:30:00Z,2026-07-18,19:30,Jeju SK,133898,Pohang Steelers,109373,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139967
+2026,18,5139968,2026-07-19T10:30:00Z,2026-07-19,19:30,FC Anyang,429440,Gwangju FC,245905,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139968
+2026,18,5139969,2026-07-19T10:30:00Z,2026-07-19,19:30,Bucheon FC 1995,429441,FC Seoul,92630,1,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139969
+2026,19,5139970,2026-07-21T10:30:00Z,2026-07-21,19:30,Jeju SK,133898,Gangwon FC,164734,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139970
+2026,19,5139971,2026-07-21T10:30:00Z,2026-07-21,19:30,Jeonbuk Hyundai Motors FC,46038,Daejeon Hana Citizen,133900,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139971
+2026,19,5139972,2026-07-21T10:30:00Z,2026-07-21,19:30,Ulsan HD FC,133896,Incheon United,133895,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139972
+2026,19,5139973,2026-07-22T10:30:00Z,2026-07-22,19:30,Bucheon FC 1995,429441,FC Anyang,429440,2,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139973
+2026,19,5139974,2026-07-22T10:30:00Z,2026-07-22,19:30,Gwangju FC,245905,Gimcheon Sangmu,133901,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139974
+2026,19,5139975,2026-07-22T10:30:00Z,2026-07-22,19:30,FC Seoul,92630,Pohang Steelers,109373,3,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139975
+2026,20,5139976,2026-07-25T10:30:00Z,2026-07-25,19:30,Gimcheon Sangmu,133901,Daejeon Hana Citizen,133900,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5139976
+2026,20,5139977,2026-07-25T10:30:00Z,2026-07-25,19:30,Pohang Steelers,109373,Jeonbuk Hyundai Motors FC,46038,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139977
+2026,20,5139978,2026-07-26T10:30:00Z,2026-07-26,19:30,FC Anyang,429440,Gangwon FC,164734,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139978
+2026,20,5139979,2026-07-26T10:30:00Z,2026-07-26,19:30,Gwangju FC,245905,Jeju SK,133898,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139979
+2026,20,5139980,2026-07-26T10:30:00Z,2026-07-26,19:30,Incheon United,133895,Bucheon FC 1995,429441,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139980
+2026,20,5139981,2026-07-26T10:30:00Z,2026-07-26,19:30,FC Seoul,92630,Ulsan HD FC,133896,1,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139981
+2026,21,5139982,2026-08-01T10:30:00Z,2026-08-01,19:30,Gangwon FC,164734,Bucheon FC 1995,429441,0,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139982
+2026,21,5139983,2026-08-01T10:30:00Z,2026-08-01,19:30,Jeonbuk Hyundai Motors FC,46038,FC Seoul,92630,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139983
+2026,21,5139984,2026-08-01T10:30:00Z,2026-08-01,19:30,Pohang Steelers,109373,Gimcheon Sangmu,133901,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5139984
+2026,21,5139985,2026-08-02T10:30:00Z,2026-08-02,19:30,Daejeon Hana Citizen,133900,Gwangju FC,245905,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139985
+2026,21,5139986,2026-08-02T10:30:00Z,2026-08-02,19:30,Jeju SK,133898,Incheon United,133895,3,3,D,True,True,False,False,FT,https://www.fotmob.com/match/5139986
+2026,21,5139987,2026-08-02T10:30:00Z,2026-08-02,19:30,Ulsan HD FC,133896,FC Anyang,429440,3,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5139987
+2026,22,5139988,2026-08-08T11:00:00Z,2026-08-08,20:00,FC Anyang,429440,Daejeon Hana Citizen,133900,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139988
+2026,22,5139989,2026-08-08T11:00:00Z,2026-08-08,20:00,Bucheon FC 1995,429441,Gwangju FC,245905,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139989
+2026,22,5139991,2026-08-08T11:00:00Z,2026-08-08,20:00,Gimcheon Sangmu,133901,FC Seoul,92630,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139991
+2026,22,5139992,2026-08-08T11:00:00Z,2026-08-08,20:00,Jeonbuk Hyundai Motors FC,46038,Jeju SK,133898,1,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139992
+2026,22,5139993,2026-08-08T11:00:00Z,2026-08-08,20:00,Pohang Steelers,109373,Ulsan HD FC,133896,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139993
+2026,22,5139990,2026-09-27T10:00:00Z,2026-09-27,19:00,Gangwon FC,164734,Incheon United,133895,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5139990
+2026,23,5139994,2026-08-15T10:30:00Z,2026-08-15,19:30,Gwangju FC,245905,Pohang Steelers,109373,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5139994
+2026,23,5139995,2026-08-15T10:30:00Z,2026-08-15,19:30,Jeju SK,133898,FC Anyang,429440,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5139995
+2026,23,5139996,2026-08-15T10:30:00Z,2026-08-15,19:30,FC Seoul,92630,Daejeon Hana Citizen,133900,4,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5139996
+2026,23,5139997,2026-08-16T10:30:00Z,2026-08-16,19:30,Bucheon FC 1995,429441,Jeonbuk Hyundai Motors FC,46038,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5139997
+2026,23,5139998,2026-08-16T10:30:00Z,2026-08-16,19:30,Incheon United,133895,Gimcheon Sangmu,133901,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5139998
+2026,23,5139999,2026-08-16T10:30:00Z,2026-08-16,19:30,Ulsan HD FC,133896,Gangwon FC,164734,2,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5139999
+2026,24,5140000,2026-08-22T10:30:00Z,2026-08-22,19:30,FC Anyang,429440,FC Seoul,92630,0,7,A,True,True,False,False,FT,https://www.fotmob.com/match/5140000
+2026,24,5140001,2026-08-22T10:30:00Z,2026-08-22,19:30,Jeju SK,133898,Gimcheon Sangmu,133901,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5140001
+2026,24,5140002,2026-08-22T10:30:00Z,2026-08-22,19:30,Jeonbuk Hyundai Motors FC,46038,Ulsan HD FC,133896,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140002
+2026,24,5140003,2026-08-22T10:30:00Z,2026-08-22,19:30,Bucheon FC 1995,429441,Pohang Steelers,109373,3,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140003
+2026,24,5140004,2026-08-23T10:30:00Z,2026-08-23,19:30,Daejeon Hana Citizen,133900,Gangwon FC,164734,3,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140004
+2026,24,5140005,2026-08-23T10:30:00Z,2026-08-23,19:30,Gwangju FC,245905,Incheon United,133895,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5140005
+2026,25,5140006,2026-08-25T10:30:00Z,2026-08-25,19:30,Gimcheon Sangmu,133901,Jeonbuk Hyundai Motors FC,46038,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5140006
+2026,25,5140007,2026-08-25T10:30:00Z,2026-08-25,19:30,Jeju SK,133898,Pohang Steelers,109373,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5140007
+2026,25,5140008,2026-08-25T10:30:00Z,2026-08-25,19:30,FC Seoul,92630,Bucheon FC 1995,429441,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140008
+2026,25,5140009,2026-08-26T10:30:00Z,2026-08-26,19:30,FC Anyang,429440,Incheon United,133895,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140009
+2026,25,5140010,2026-08-26T10:30:00Z,2026-08-26,19:30,Daejeon Hana Citizen,133900,Ulsan HD FC,133896,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140010
+2026,25,5140011,2026-08-26T10:30:00Z,2026-08-26,19:30,Gangwon FC,164734,Gwangju FC,245905,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140011
+2026,26,5140012,2026-08-29T10:30:00Z,2026-08-29,19:30,Bucheon FC 1995,429441,FC Anyang,429440,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140012
+2026,26,5140013,2026-08-29T10:30:00Z,2026-08-29,19:30,Ulsan HD FC,133896,Gimcheon Sangmu,133901,3,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140013
+2026,26,5140014,2026-08-30T10:30:00Z,2026-08-30,19:30,Gwangju FC,245905,FC Seoul,92630,2,5,A,True,True,False,False,FT,https://www.fotmob.com/match/5140014
+2026,26,5140015,2026-08-30T10:30:00Z,2026-08-30,19:30,Incheon United,133895,Jeonbuk Hyundai Motors FC,46038,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140015
+2026,26,5140016,2026-08-30T10:30:00Z,2026-08-30,19:30,Jeju SK,133898,Daejeon Hana Citizen,133900,3,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140016
+2026,26,5140017,2026-08-30T10:30:00Z,2026-08-30,19:30,Gangwon FC,164734,Pohang Steelers,109373,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5140017
+2026,27,5140018,2026-09-05T10:00:00Z,2026-09-05,19:00,Bucheon FC 1995,429441,Daejeon Hana Citizen,133900,0,5,A,True,True,False,False,FT,https://www.fotmob.com/match/5140018
+2026,27,5140019,2026-09-05T10:00:00Z,2026-09-05,19:00,Jeju SK,133898,Ulsan HD FC,133896,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5140019
+2026,27,5140020,2026-09-05T10:00:00Z,2026-09-05,19:00,Jeonbuk Hyundai Motors FC,46038,Pohang Steelers,109373,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140020
+2026,27,5140021,2026-09-05T10:00:00Z,2026-09-05,19:00,FC Seoul,92630,Incheon United,133895,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140021
+2026,27,5140022,2026-09-06T10:00:00Z,2026-09-06,19:00,FC Anyang,429440,Gangwon FC,164734,0,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5140022
+2026,27,5140023,2026-09-06T10:00:00Z,2026-09-06,19:00,Gimcheon Sangmu,133901,Gwangju FC,245905,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140023
+2026,28,5140024,2026-09-08T10:30:00Z,2026-09-08,19:30,Incheon United,133895,Bucheon FC 1995,429441,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140024
+2026,28,5140025,2026-09-08T10:30:00Z,2026-09-08,19:30,Ulsan HD FC,133896,FC Seoul,92630,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140025
+2026,28,5140026,2026-09-09T10:30:00Z,2026-09-09,19:30,Daejeon Hana Citizen,133900,FC Anyang,429440,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5140026
+2026,28,5140027,2026-09-09T10:30:00Z,2026-09-09,19:30,Gangwon FC,164734,Jeonbuk Hyundai Motors FC,46038,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140027
+2026,28,5140028,2026-09-09T10:30:00Z,2026-09-09,19:30,Gwangju FC,245905,Jeju SK,133898,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5140028
+2026,28,5140029,2026-09-09T10:30:00Z,2026-09-09,19:30,Pohang Steelers,109373,Gimcheon Sangmu,133901,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5140029
+2026,29,5140030,2026-09-12T07:30:00Z,2026-09-12,16:30,Bucheon FC 1995,429441,Jeju SK,133898,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140030
+2026,29,5140031,2026-09-12T07:30:00Z,2026-09-12,16:30,Jeonbuk Hyundai Motors FC,46038,FC Seoul,92630,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5140031
+2026,29,5140032,2026-09-12T07:30:00Z,2026-09-12,16:30,Ulsan HD FC,133896,Incheon United,133895,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140032
+2026,29,5140033,2026-09-12T10:00:00Z,2026-09-12,19:00,Daejeon Hana Citizen,133900,Pohang Steelers,109373,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140033
+2026,29,5140034,2026-09-13T07:30:00Z,2026-09-13,16:30,Gimcheon Sangmu,133901,Gangwon FC,164734,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140034
+2026,29,5140035,2026-09-13T10:00:00Z,2026-09-13,19:00,Gwangju FC,245905,FC Anyang,429440,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140035
+2026,30,5140036,2026-09-19T07:30:00Z,2026-09-19,16:30,Bucheon FC 1995,429441,Gimcheon Sangmu,133901,0,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5140036
+2026,30,5140037,2026-09-19T10:00:00Z,2026-09-19,19:00,FC Anyang,429440,Ulsan HD FC,133896,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140037
+2026,30,5140038,2026-09-20T07:30:00Z,2026-09-20,16:30,Gangwon FC,164734,Jeju SK,133898,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5140038
+2026,30,5140039,2026-09-20T07:30:00Z,2026-09-20,16:30,Jeonbuk Hyundai Motors FC,46038,Gwangju FC,245905,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140039
+2026,30,5140040,2026-09-20T10:00:00Z,2026-09-20,19:00,Incheon United,133895,Daejeon Hana Citizen,133900,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140040
+2026,30,5140041,2026-09-20T10:00:00Z,2026-09-20,19:00,Pohang Steelers,109373,FC Seoul,92630,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140041
+2026,31,5140042,2026-10-09T05:00:00Z,2026-10-09,14:00,Daejeon Hana Citizen,133900,Jeonbuk Hyundai Motors FC,46038,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140042
+2026,31,5140043,2026-10-09T07:30:00Z,2026-10-09,16:30,Gangwon FC,164734,Bucheon FC 1995,429441,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140043
+2026,31,5140044,2026-10-09T07:30:00Z,2026-10-09,16:30,Incheon United,133895,Pohang Steelers,109373,3,0,H,True,True,False,False,FT,https://www.fotmob.com/match/5140044
+2026,31,5140045,2026-10-10T05:00:00Z,2026-10-10,14:00,FC Seoul,92630,Jeju SK,133898,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140045
+2026,31,5140046,2026-10-10T07:30:00Z,2026-10-10,16:30,Gimcheon Sangmu,133901,FC Anyang,429440,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/5140046
+2026,31,5140047,2026-10-11T05:00:00Z,2026-10-11,14:00,Gwangju FC,245905,Ulsan HD FC,133896,4,3,H,True,True,False,False,FT,https://www.fotmob.com/match/5140047
+2026,32,5140049,2026-10-17T07:30:00Z,2026-10-17,16:30,Ulsan HD FC,133896,Bucheon FC 1995,429441,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140049
+2026,32,5140050,2026-10-18T05:00:00Z,2026-10-18,14:00,Daejeon Hana Citizen,133900,Gwangju FC,245905,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5140050
+2026,32,5140051,2026-10-18T05:00:00Z,2026-10-18,14:00,Jeonbuk Hyundai Motors FC,46038,Jeju SK,133898,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/5140051
+2026,32,5140048,2026-10-18T07:30:00Z,2026-10-18,16:30,FC Seoul,92630,Gimcheon Sangmu,133901,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140048
+2026,32,5140052,2026-10-18T07:30:00Z,2026-10-18,16:30,Gangwon FC,164734,Incheon United,133895,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140052
+2026,32,5140053,2026-10-18T07:30:00Z,2026-10-18,16:30,Pohang Steelers,109373,FC Anyang,429440,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/5140053
+2026,33,5140054,2026-10-24T05:00:00Z,2026-10-24,14:00,FC Anyang,429440,Jeonbuk Hyundai Motors FC,46038,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140054
+2026,33,5140055,2026-10-24T05:00:00Z,2026-10-24,14:00,Bucheon FC 1995,429441,Gwangju FC,245905,0,3,A,True,True,False,False,FT,https://www.fotmob.com/match/5140055
+2026,33,5140056,2026-10-24T05:00:00Z,2026-10-24,14:00,Gimcheon Sangmu,133901,Daejeon Hana Citizen,133900,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/5140056
+2026,33,5140057,2026-10-24T05:00:00Z,2026-10-24,14:00,Incheon United,133895,Jeju SK,133898,3,1,H,True,True,False,False,FT,https://www.fotmob.com/match/5140057
+2026,33,5140058,2026-10-24T05:00:00Z,2026-10-24,14:00,FC Seoul,92630,Gangwon FC,164734,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/5140058
+2026,33,5140059,2026-10-24T05:00:00Z,2026-10-24,14:00,Ulsan HD FC,133896,Pohang Steelers,109373,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/5140059
+2026,34,6503832,2026-10-31T05:00:00Z,2026-10-31,14:00,Jeonbuk Hyundai Motors FC,46038,Daejeon Hana Citizen,133900,0,0,D,True,True,False,False,FT,https://www.fotmob.com/match/6503832
+2026,34,6503948,2026-10-31T07:30:00Z,2026-10-31,16:30,Gwangju FC,245905,Gimcheon Sangmu,133901,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/6503948
+2026,34,6503833,2026-11-01T05:00:00Z,2026-11-01,14:00,Ulsan HD FC,133896,Gangwon FC,164734,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/6503833
+2026,34,6503949,2026-11-01T05:00:00Z,2026-11-01,14:00,Pohang Steelers,109373,Jeju SK,133898,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/6503949
+2026,34,6503834,2026-11-01T07:30:00Z,2026-11-01,16:30,FC Seoul,92630,Incheon United,133895,0,1,A,True,True,False,False,FT,https://www.fotmob.com/match/6503834
+2026,34,6503950,2026-11-01T07:30:00Z,2026-11-01,16:30,FC Anyang,429440,Bucheon FC 1995,429441,2,1,H,True,True,False,False,FT,https://www.fotmob.com/match/6503950
+2026,35,6503951,2026-11-07T05:00:00Z,2026-11-07,14:00,Jeju SK,133898,Gwangju FC,245905,1,1,D,True,True,False,False,FT,https://www.fotmob.com/match/6503951
+2026,35,6503952,2026-11-07T07:30:00Z,2026-11-07,16:30,Gimcheon Sangmu,133901,FC Anyang,429440,1,0,H,True,True,False,False,FT,https://www.fotmob.com/match/6503952
+2026,35,6503835,2026-11-08T05:00:00Z,2026-11-08,14:00,Daejeon Hana Citizen,133900,Incheon United,133895,2,0,H,True,True,False,False,FT,https://www.fotmob.com/match/6503835
+2026,35,6503836,2026-11-08T05:00:00Z,2026-11-08,14:00,FC Seoul,92630,Ulsan HD FC,133896,1,2,A,True,True,False,False,FT,https://www.fotmob.com/match/6503836
+2026,35,6503837,2026-11-08T07:30:00Z,2026-11-08,16:30,Gangwon FC,164734,Jeonbuk Hyundai Motors FC,46038,3,2,H,True,True,False,False,FT,https://www.fotmob.com/match/6503837
+2026,35,6503953,2026-11-08T07:30:00Z,2026-11-08,16:30,Bucheon FC 1995,429441,Pohang Steelers,109373,2,2,D,True,True,False,False,FT,https://www.fotmob.com/match/6503953
+2026,36,6503838,2026-11-21T05:00:00Z,2026-11-21,14:00,Jeonbuk Hyundai Motors FC,46038,FC Seoul,92630,,,,False,False,False,False,,https://www.fotmob.com/match/6503838
+2026,36,6503954,2026-11-21T05:00:00Z,2026-11-21,14:00,Pohang Steelers,109373,FC Anyang,429440,,,,False,False,False,False,,https://www.fotmob.com/match/6503954
+2026,36,6503839,2026-11-21T07:30:00Z,2026-11-21,16:30,Gangwon FC,164734,Daejeon Hana Citizen,133900,,,,False,False,False,False,,https://www.fotmob.com/match/6503839
+2026,36,6503840,2026-11-21T07:30:00Z,2026-11-21,16:30,Incheon United,133895,Ulsan HD FC,133896,,,,False,False,False,False,,https://www.fotmob.com/match/6503840
+2026,36,6503955,2026-11-22T05:00:00Z,2026-11-22,14:00,Gimcheon Sangmu,133901,Jeju SK,133898,,,,False,False,False,False,,https://www.fotmob.com/match/6503955
+2026,36,6503956,2026-11-22T05:00:00Z,2026-11-22,14:00,Gwangju FC,245905,Bucheon FC 1995,429441,,,,False,False,False,False,,https://www.fotmob.com/match/6503956
+2026,37,6503841,2026-11-28T05:00:00Z,2026-11-28,14:00,FC Seoul,92630,Daejeon Hana Citizen,133900,,,,False,False,False,False,,https://www.fotmob.com/match/6503841
+2026,37,6503957,2026-11-28T05:00:00Z,2026-11-28,14:00,FC Anyang,429440,Jeju SK,133898,,,,False,False,False,False,,https://www.fotmob.com/match/6503957
+2026,37,6503958,2026-11-28T07:30:00Z,2026-11-28,16:30,Bucheon FC 1995,429441,Gimcheon Sangmu,133901,,,,False,False,False,False,,https://www.fotmob.com/match/6503958
+2026,37,6503959,2026-11-28T07:30:00Z,2026-11-28,16:30,Pohang Steelers,109373,Gwangju FC,245905,,,,False,False,False,False,,https://www.fotmob.com/match/6503959
+2026,37,6503842,2026-11-29T05:00:00Z,2026-11-29,14:00,Ulsan HD FC,133896,Jeonbuk Hyundai Motors FC,46038,,,,False,False,False,False,,https://www.fotmob.com/match/6503842
+2026,37,6503843,2026-11-29T07:30:00Z,2026-11-29,16:30,Incheon United,133895,Gangwon FC,164734,,,,False,False,False,False,,https://www.fotmob.com/match/6503843
+2026,38,6503960,2026-12-05T05:00:00Z,2026-12-05,14:00,FC Anyang,429440,Gwangju FC,245905,,,,False,False,False,False,,https://www.fotmob.com/match/6503960
+2026,38,6503961,2026-12-05T05:00:00Z,2026-12-05,14:00,Gimcheon Sangmu,133901,Pohang Steelers,109373,,,,False,False,False,False,,https://www.fotmob.com/match/6503961
+2026,38,6503962,2026-12-05T05:00:00Z,2026-12-05,14:00,Jeju SK,133898,Bucheon FC 1995,429441,,,,False,False,False,False,,https://www.fotmob.com/match/6503962
+2026,38,6503844,2026-12-06T05:00:00Z,2026-12-06,14:00,Daejeon Hana Citizen,133900,Ulsan HD FC,133896,,,,False,False,False,False,,https://www.fotmob.com/match/6503844
+2026,38,6503845,2026-12-06T05:00:00Z,2026-12-06,14:00,Gangwon FC,164734,FC Seoul,92630,,,,False,False,False,False,,https://www.fotmob.com/match/6503845
+2026,38,6503846,2026-12-06T05:00:00Z,2026-12-06,14:00,Jeonbuk Hyundai Motors FC,46038,Incheon United,133895,,,,False,False,False,False,,https://www.fotmob.com/match/6503846
