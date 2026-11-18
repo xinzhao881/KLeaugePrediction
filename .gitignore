@@ -5,10 +5,15 @@ __pycache__/
 # FotMob raw JSON cache (~180MB, rebuilt by fotmob.py)
 fotmob_csv/raw/
 
-# Generated outputs (rebuilt by pruning.py / feature.py)
+# Betman raw JSON cache (~170MB, rebuilt by betman.py) and debug dump
+betman_raw/
+betman_response.json
+
+# Generated outputs (rebuilt by pruning.py / feature.py / backtest.py)
 kleague_csv/processed/
 models/
 predictions/
+backtest_results/
 
 # Reference papers (third-party)
 *.pdf

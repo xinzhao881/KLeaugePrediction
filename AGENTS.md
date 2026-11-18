@@ -14,22 +14,23 @@ Run these scripts in order to execute the full pipeline:
 1. **Scrape K League Data**: `python Kleague.py`
    - Fetches raw team/match stats from `portal.kleague.com`.
    - Saves to `kleague_csv/{year}/`.
-2. **Scrape Betman Odds**: `python betman.py` *(planned/in-progress)*
-   - Fetches historical and upcoming Win/Draw/Loss (승/무/패) dividend odds from Betman.
-   - Saves to `betman_csv/{year}/` (ensure team names match K League naming conventions).
+2. **Scrape Betman Odds**: `python betman.py` (`--offline` rebuilds the CSV from the cache)
+   - Fetches Proto 승부식 (G101) rounds and keeps K리그1 full-time W/D/L (승/무/패) odds.
+   - Raw responses are cached in `betman_raw/{gmTs}.json` (gitignored); output is `betman_kleague.csv`.
+   - Filter quirks: 2023-25 responses have no bet-type names, so the market is identified by `handi == 0`; from 2026 a first-half market (`축구 전반 승무패`) shares `handi == 0` and must be excluded.
 3. **Process & Merge Data**: `python pruning.py`
    - Cleans raw data, decodes HTML entities, normalizes team names across K League and Betman datasets, and builds pre-match rolling features.
    - Saves to `kleague_csv/processed/{year}/`.
 4. **Train & Predict**: `python feature.py` (or `train.py`)
    - Trains classification models (e.g., Random Forest, XGBoost/LightGBM) using time-series/round-based splits (no random shuffling).
    - Outputs predicted probabilities (`P_win`, `P_draw`, `P_loss`) and saves feature importance to `feature_importance/`.
-5. **Betting Backtest**: `python backtest.py` *(planned/in-progress)*
+5. **Betting Backtest**: `python backtest.py` (walk-forward; `--reuse` skips refitting)
    - Compares model predicted probabilities against Betman implied probabilities (`1 / odds`) to calculate Expected Value (EV).
    - Simulates betting strategies (EV threshold, flat stake, fractional Kelly) and outputs ROI, MDD, and win rate.
 
 ## Key Directories
 - `kleague_csv/`: Raw (`{year}/`) and cleaned/merged (`processed/{year}/`) K League match data.
-- `betman_csv/`: Scraped Betman odds data.
+- `betman_kleague.csv`: Scraped Betman K리그1 W/D/L odds (raw cache in `betman_raw/`).
 - `feature_importance/`: Feature importance plots/CSVs and model evaluation metrics.
 - `backtest_results/`: Betting simulation logs and ROI reports.
 

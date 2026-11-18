@@ -238,13 +238,13 @@ def team_kr(team_id):
 # Other spellings (K League portal full names, Betman, user input) -> short name.
 # Keys are compared without spaces, case-insensitive.
 TEAM_ALIASES = {
-    "울산HD": "울산", "울산현대": "울산", "울산HDFC": "울산",
+    "울산HD": "울산", "울산현대": "울산", "울산HDFC": "울산", "울산현대축구단": "울산",
     "전북현대": "전북", "전북현대모터스": "전북",
     "포항스틸러스": "포항",
     "FC서울": "서울",
     "강원FC": "강원",
     "광주FC": "광주",
-    "김천상무": "김천", "김천상무FC": "김천",
+    "김천상무": "김천", "김천상무FC": "김천", "김천상무프로축구단": "김천",
     "대구FC": "대구",
     "대전하나": "대전", "대전하나시티즌": "대전",
     "수원삼성": "수원", "수원삼성블루윙즈": "수원",
